@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pasukanhokky.github.io/sitemap.xml
